@@ -6,7 +6,10 @@
                 <ui-list-item title="贝塞尔曲线代码生成" to="/">
                     <ui-icon slot="left" value="grade"/>
                 </ui-list-item>
-                <ui-list-item title="关于" to="/about">
+                <!--<ui-list-item title="贝塞尔曲线动画" to="/animation">-->
+                    <!--<ui-icon slot="left" value="grade"/>-->
+                <!--</ui-list-item>-->
+                <ui-list-item title="关于" href="http://about.yunser.com/" target="_blank">
                     <ui-icon slot="left" value="grade"/>
                 </ui-list-item>
             </ui-list>

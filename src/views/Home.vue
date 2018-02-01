@@ -179,7 +179,6 @@
     .btn {
         margin-bottom: 16px;
     }
-
     .bezier-box {
     }
     .bezier-box h1 {
@@ -189,14 +188,6 @@
         background-color: #fff;
         border-radius: 8px;
         border: 1px solid #ddd;
-    }
-    .bezier-box pre {
-        height: 480px;
-        font-size: 16px;
-        padding: 16px;
-        border-radius: 8px;
-        border: 1px solid #ddd;
-        overflow: auto;
     }
     .bezier-box .btn {
         margin-top: 8px;
